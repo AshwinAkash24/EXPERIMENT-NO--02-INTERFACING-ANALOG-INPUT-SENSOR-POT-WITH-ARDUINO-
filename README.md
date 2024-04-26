@@ -1,4 +1,5 @@
  ## Experiment-no:2 -INTERFACING ANALOG INPUT SENSOR POT WITH ARDUINO.
+ # Date 23-02-2024
  ## Name: Ashwin Akash M
  ## Reference Number: 212223230024
  ## Department: AI&DS
